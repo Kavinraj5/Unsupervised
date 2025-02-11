@@ -13,7 +13,9 @@ This case study focuses on analyzing the power consumption of different househol
 
 ### Table of Content
 1. Import Libraries
+   
 2. Read Data
+   
 3. Exploratory Data Analysis
    
 3.1 Understand the Dataset
