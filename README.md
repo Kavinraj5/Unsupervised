@@ -15,24 +15,24 @@ This case study focuses on analyzing the power consumption of different househol
 1. Import Libraries
 2. Read Data
 3. Exploratory Data Analysis
-3.1 - Understand the Dataset
-3.2 - Data Type
-3.3 - Distribution of Variables
-3.4 - Analysis of Outliers
-3.5 - Summary Statistics
-3.6 - Missing Values
-3.7 - Prepare the Data
+3.1 Understand the Dataset
+3.2 Data Type
+3.3 Distribution of Variables
+3.4 Analysis of Outliers
+3.5 Summary Statistics
+3.6 Missing Values
+3.7 Prepare the Data
 4. K-means Clustering
-4.1 - Identify the Optimal Number of Clusters
-4.2 - Build the Model
-4.3 - Analyze the Clusters
+4.1 Identify the Optimal Number of Clusters
+4.2 Build the Model
+4.3 Analyze the Clusters
 5. Hierarchical Clustering
-5.1 - Identify the Optimal Number of Clusters
-5.2 - Build the Model
-5.3 - Analyze the Clusters
+5.1 Identify the Optimal Number of Clusters
+5.2 Build the Model
+5.3 Analyze the Clusters
 6. DBSCAN
-6.1 - Build the Model
-6.2 - Analyze the Clusters
+6.1 Build the Model
+6.2 Analyze the Clusters
 7. Visualize the Clusters
 
 ### Result
