@@ -56,7 +56,7 @@ This case study focuses on analyzing the power consumption of different househol
     
 7. Visualize the Clusters
 
-### Result
+### Analysis and Conclusion
 The subplots above represent clusters formed by different algorithms. We can see that the K-means and hierarchical clustering have created 3 clusters, while the DBSCAN algorithm has grouped the data into 4 clusters.
 
 The plots for K-means and hierarchical clustering show similarity in cluster formation. The DBSCAN algorithm has clustered houses based on the power consumption of the other appliances in the house. Also, the blue points in the DBSCAN plot represent the outliers identified by the algorithm.
