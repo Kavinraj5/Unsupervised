@@ -15,6 +15,7 @@ This case study focuses on analyzing the power consumption of different househol
 1. Import Libraries
 2. Read Data
 3. Exploratory Data Analysis
+4. 
 3.1 Understand the Dataset
 3.2 Data Type
 3.3 Distribution of Variables
@@ -22,18 +23,22 @@ This case study focuses on analyzing the power consumption of different househol
 3.5 Summary Statistics
 3.6 Missing Values
 3.7 Prepare the Data
-4. K-means Clustering
+5. K-means Clustering
+6. 
 4.1 Identify the Optimal Number of Clusters
 4.2 Build the Model
 4.3 Analyze the Clusters
-5. Hierarchical Clustering
+7. Hierarchical Clustering
+8. 
 5.1 Identify the Optimal Number of Clusters
 5.2 Build the Model
 5.3 Analyze the Clusters
-6. DBSCAN
+9. DBSCAN
+10. 
 6.1 Build the Model
 6.2 Analyze the Clusters
-7. Visualize the Clusters
+    
+12. Visualize the Clusters
 
 ### Result
 The subplots above represent clusters formed by different algorithms. We can see that the K-means and hierarchical clustering have created 3 clusters, while the DBSCAN algorithm has grouped the data into 4 clusters.
